@@ -1,0 +1,91 @@
+[
+  {
+	"mod_name": "ArmorPoser",
+	"project_id": "PFwYNrHb"
+},
+{
+	"mod_name": "audioplayer",
+	"project_id": "SRlzjEBS"
+},
+{
+	"mod_name": "c2me",
+	"project_id": ""
+},
+{
+	"mod_name": "Chunky",
+	"project_id": ""
+},
+{
+	"mod_name": "cloth",
+	"project_id": ""
+},
+{
+	"mod_name": "directionhud",
+	"project_id": ""
+},
+{
+	"mod_name": "Dynmap",
+	"project_id": ""
+},
+{
+	"mod_name": "fabric-api",
+	"project_id": "P7dR8mSH"
+},
+{
+	"mod_name": "fabric-carpet",
+	"project_id": ""
+},
+{
+	"mod_name": "fabric-language-kotlin",
+	"project_id": ""
+},
+{
+	"mod_name": "fabricexporter",
+	"project_id": ""
+},
+{
+	"mod_name": "geyser",
+	"project_id": ""
+},
+{
+	"mod_name": "ledger",
+	"project_id": ""
+},
+{
+	"mod_name": "lithium",
+	"project_id": ""
+},
+{
+	"mod_name": "LuckPerms",
+	"project_id": ""
+},
+{
+	"mod_name": "PlanFabric",
+	"project_id": ""
+},
+{
+	"mod_name": "servux",
+	"project_id": ""
+},
+{
+	"mod_name": "sit!",
+	"project_id": ""
+},
+{
+	"mod_name": "sodium",
+	"project_id": ""
+},
+{
+	"mod_name": "spark",
+	"project_id": ""
+},
+{
+	"mod_name": "status",
+	"project_id": ""
+},
+{
+	"mod_name": "voicechat",
+	"project_id": ""
+}
+  
+]
